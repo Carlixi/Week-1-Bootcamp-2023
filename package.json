@@ -1,0 +1,16 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "Semana 1 del bootcamp 2023",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlitos",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  }
+}
